@@ -1,0 +1,57 @@
+Study of aminoacid frequencies in protein secondary structures
+1.Data and preprocessing
+	Input Data: .pdb files
+	Required Steps to process the data:
+		Preprocessing the .pdb files
+		Obtaining the AA frecuencies
+		Prepare them for te visualization
+	Potential results:secondary structures "helix", "beta" and other coils visualization.
+
+2. Project goals
+	Milestone 1: Collect information
+		WP1: Learn about protein' secondary tructures --> 4 hours 
+		WP2: Learn about PDB database --> 8 hours
+		WP3: Learn about pdb files --> 8 hours
+		WP4: Learn about scripts and related commands ---> 8 hours
+	Milestone 2: Debugging the scripts
+
+
+	Milestone 3: Select and download the protein structure files from PDB
+		Deliverable1: Folder with PDB files
+		Deliverable2: Frequency results
+		Deliverable3: potential secondary structures
+
+3. Libraries, tools and software requirements
+
+4. Required Python scripts
+	Python script1:01_download/01run.sh
+	Python script2:02_parse_pdb/01run.sh
+	Python script3:03_visualize/01run.shStudy of aminoacid frequencies in protein secondary structures
+1.Data and preprocessing
+	Input Data: .pdb files
+	Required Steps to process the data:
+		Preprocessing the .pdb files
+		Obtaining the AA frecuencies
+		Prepare them for te visualization
+	Potential results:secondary structures "helix", "beta" and other coils visualization.
+
+2. Project goals
+	Milestone 1: Collect information
+		WP1: Learn about protein' secondary tructures --> 4 hours 
+		WP2: Learn about PDB database --> 8 hours
+		WP3: Learn about pdb files --> 8 hours
+		WP4: Learn about scripts and related commands ---> 8 hours
+	Milestone 2: Debugging the scripts
+
+
+	Milestone 3: Select and download the protein structure files from PDB
+		Deliverable1: Folder with PDB files
+		Deliverable2: Frequency results
+		Deliverable3: potential secondary structures
+
+3. Libraries, tools and software requirements
+
+4. Required Python scripts
+	Python script1:01_download/01run.sh
+	Python script2:02_parse_pdb/01run.sh
+	Python script3:03_visualize/01run.sh
