@@ -38,10 +38,10 @@ Required packages/modules:
 **Instructions**
 <br>
 1.) Download repository and unpack folder <br>
-2.) Open Terminal and change directory to ../01_download <br>
-3.) run bash script: bash 01run.sh <br>
-4.) Change directory to ../02_parse_pdb <br>
-5.) run bash script: bash 02run.sh <br>
+2.) Open Terminal and change directory to `../01_download` <br>
+3.) run bash script: ```bash 01run.sh``` <br>
+4.) Change directory to `../02_parse_pdb` <br>
+5.) run bash script: ```bash 02run.sh``` <br>
 
 In ../02_parse_pdb/results you can find the frequency table (AA_freq_table.tsv) and the multibar plot (AA_freq_plot.pdf).
 
