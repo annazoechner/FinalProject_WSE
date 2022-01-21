@@ -39,38 +39,10 @@ Required packages/modules:
 <br>
 1.) Download repository and unpack folder <br>
 2.) Open Terminal and change directory: `cd ../01_download` <br>
-3.) run bash script: `bash 01run.sh` <br>
+3.) run bash script: `bash 01run.sh`<br>
+&emsp; default: 250 *.ent files will be downloaded, if you want a different number change N_ENTRIES in the bash script
 4.) Change directory: `../02_parse_pdb` <br>
 5.) run bash script: `bash 02run.sh` <br>
 
 In `../02_parse_pdb/results` you can find the frequency table (AA_freq_table.tsv) and the multibar plot (AA_freq_plot.pdf).
-
-
-### Project structure description
-
-1. Project hierarchy:directories and subdirectories as well as text files within this project main directory
-
--------FinalProject
-		|
-		----FinalProjectnotes.txt
-		|
-		
-		|
-		----README.md
-		|
-		|
-		....01_download/
-		|
-		....02_parse_pdb/
-		|
-		
-		|
-		----doc/
-		|
-		----bin/
-		|
-		
----
-
-
 
