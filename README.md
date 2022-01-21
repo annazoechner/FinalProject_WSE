@@ -19,20 +19,18 @@ an indicator of the type of secondary structure of such proteins.
 # Installation/usage instructions
 
 Required Environment: 
-numpy (1.18.1) 
-matplotlib (3.1.1) 
-pandas (1.0.3)
-Python (3.7.6) 
-Online access to PDB database 
-Biopython (1.76) (Terminal command: # conda install -c conda-forge biopython)
-xssp (`mkdssp` executable, 3.0.5) 
+- numpy (1.18.1) 
+- matplotlib (3.1.1) 
+- pandas (1.0.3)
+- Python (3.7.6) 
+- Online access to PDB database 
+- Biopython (1.76) (Terminal command: # conda install -c conda-forge biopython)
+- xssp (`mkdssp` executable, 3.0.5) 
      
 Required packages/modules: 
-Bio.PDB -> crystal structures of biological macromolecules 
-PDBList -> from Bio.PDB
-#os -> miscellaneous operating system interfaces 
-#sys -> system specific parameters and functions
-#random -> for generating random numbers 
+- Bio.PDB -> crystal structures of biological macromolecules 
+- PDBList -> from Bio.PDB
+- 
 The environment is also provided as `requirements.txt`
 
 #Project structure description
