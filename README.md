@@ -1,4 +1,6 @@
-
+---
+Project authors: Sophie Binder, Noura Chelbat Ajouid, Anna Zöchner
+---
 
 # Short description
 
@@ -30,7 +32,7 @@ Required Environment:
 Required packages/modules: 
 - Bio.PDB -> crystal structures of biological macromolecules 
 - PDBList -> from Bio.PDB
-- 
+
 The environment is also provided as `requirements.txt`
 
 #Project structure description
@@ -60,5 +62,4 @@ The environment is also provided as `requirements.txt`
 
 
 
----
-Project authors: Anna, Sophie, Noura Chelbat Ajouid
+
