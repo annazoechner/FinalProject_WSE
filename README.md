@@ -1,6 +1,6 @@
 
 Project authors: Sophie Binder, Noura Chelbat Ajouid, Anna Zöchner
----
+<br>
 
 # Short description
 
