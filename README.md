@@ -70,7 +70,7 @@ In `../02_parse_pdb/results` you can find the frequency table (AA_freq_table.tsv
 		----bin/
 		|
 		
-
+---
 
 
 
