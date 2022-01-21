@@ -1,10 +1,11 @@
 
-Project authors: Sophie Binder, Noura Chelbat Ajouid, Anna Zöchner
+Project authors: Sophie Binder, Noura Chelbat Ajouid, Anna Zöchner <br>
+Weiterführende Softwareentwicklung, WS 2021/22
 <br>
 
 ### Short description
 
-This is the final assignment of the lecture "Weitere Softwareentwicklung" within the Master "Biodata Science". In this assignment, 
+This is the final assignment of the lecture "Weiterführende Softwareentwicklung" within the Master "Biodata Science". In this assignment, 
 we have to put into practice the learning material about Git and GitHub as well as about how to organize a research project within computational biology. 
 This project is based on Exercise 12 from Ekmekci et al., 2016: “An Introduction to Programming for Bioscientists: A Python-Based Primer”.
 We were given the task to organize and develop the needed resources for a mini-project where the frequency of aminoacids within different proteins could be 
@@ -35,11 +36,11 @@ Required packages/modules:
 - PDBList -> from Bio.PDB
 
 **Instructions**
-1.) Download repository and unpack folder
-2.) Open Terminal and change directory to ../01_download
-3.) run bash script: bash 01run.sh
-4.) Change directory to ../02_parse_pdb
-5.) run bash script: bash 02run.sh
+1.) Download repository and unpack folder <br>
+2.) Open Terminal and change directory to ../01_download <br>
+3.) run bash script: bash 01run.sh <br>
+4.) Change directory to ../02_parse_pdb <br>
+5.) run bash script: bash 02run.sh <br>
 
 In ../02_parse_pdb/results you can find the frequency table (AA_freq_table.tsv) and the multibar plot (AA_freq_plot.pdf).
 
