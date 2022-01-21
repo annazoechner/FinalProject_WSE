@@ -40,7 +40,7 @@ Required packages/modules:
 1.) Download repository and unpack folder <br>
 2.) Open Terminal and change directory: `cd ../01_download` <br>
 3.) run bash script: `bash 01run.sh`<br>
-&emsp; default: 250 *.ent files will be downloaded, if you want a different number change N_ENTRIES in the bash script
+&emsp; default: 250 *.ent files will be downloaded, if you want a different number change N_ENTRIES in the bash script <br>
 4.) Change directory: `../02_parse_pdb` <br>
 5.) run bash script: `bash 02run.sh` <br>
 
