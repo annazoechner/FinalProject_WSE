@@ -20,7 +20,11 @@ an indicator of the type of secondary structure of such proteins.
 * Push/pull every change to the GitHub account
 
 ### Installation/usage instructions
-The environment is provided as `requirements.yml`
+The environment is provided as `requirements.yml` <br>
+To use provided environment: <br>
+1.) Change directory to the project folder <br>
+2.) Use `conda env create --prefix ./env --file requirements.yml` to create the environment <br>
+3.) Use `conda activate ./env` to activate the environemt <br>
 
 Required Environment: 
 - numpy (1.18.1) 
@@ -43,7 +47,7 @@ Required packages/modules:
 &emsp;&emsp; default: 250 *.ent files will be downloaded, if you want a different number change N_ENTRIES in the bash script <br>
 &emsp;&emsp; To save space pack files by using the out commented command in the bash script: `gzip results/*ent`
 4.) Change directory: `../02_parse_pdb` <br>
-&emsp;&emsp; In case files are in gzip-folder uncomment line 10-17 in the bash script
+&emsp;&emsp; In case files are in .gz-folder uncomment line 10-17 in the bash script <br>
 5.) run bash script: `bash 02run.sh` <br>
 
 In `../02_parse_pdb/results` you can find the frequency table (AA_freq_table.tsv) and the multibar plot (AA_freq_plot.pdf).
