@@ -40,8 +40,10 @@ Required packages/modules:
 1.) Download repository and unpack folder <br>
 2.) Open Terminal and change directory: `cd ../01_download` <br>
 3.) run bash script: `bash 01run.sh`<br>
-&emsp; default: 250 *.ent files will be downloaded, if you want a different number change N_ENTRIES in the bash script <br>
+&emsp;&emsp; default: 250 *.ent files will be downloaded, if you want a different number change N_ENTRIES in the bash script <br>
+&emsp;&emsp; To save space pack files by using the out commented command in the bash script: `gzip results/*ent`
 4.) Change directory: `../02_parse_pdb` <br>
+&emsp;&emsp; In case files are in gzip-folder uncomment line 10-17 in the bash script
 5.) run bash script: `bash 02run.sh` <br>
 
 In `../02_parse_pdb/results` you can find the frequency table (AA_freq_table.tsv) and the multibar plot (AA_freq_plot.pdf).
