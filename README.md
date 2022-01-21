@@ -47,7 +47,7 @@ Required packages/modules:
 4.) Change directory: `cd 01_download` <br>
 5.) run bash script: `bash 01run.sh`<br>
 &emsp;&emsp; default: 250 *.ent files will be downloaded, if you want a different number change N_ENTRIES in the bash script <br>
-&emsp;&emsp; To save space pack files by using the out commented command in the bash script: `gzip results/*ent`
+&emsp;&emsp; To save space pack files by using the out commented command in the bash script: `gzip results/*ent` <br>
 6.) Change directory: `02_parse_pdb` <br>
 &emsp;&emsp; In case files are in .gz-folder uncomment line 10-17 in the bash script <br>
 7.) run bash script: `bash 02run.sh` <br>
