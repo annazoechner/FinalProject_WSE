@@ -43,7 +43,7 @@ Required packages/modules:
 <br>
 1.) Download repository and unpack folder <br>
 2.) Open Terminal and change directory to downloaded folder <br>
-3.) Make all python files executable: `chmod +x parse_pdb_files.py``chmod +x plot_multibar.py``chmod +x select_and_download_from_PDB.py` <br>
+3.) Make all python files executable: `chmod +x parse_pdb_files.py`, `chmod +x plot_multibar.py`, `chmod +x select_and_download_from_PDB.py` <br>
 4.) Change directory: `cd 01_download` <br>
 5.) run bash script: `bash 01run.sh`<br>
 &emsp;&emsp; default: 250 *.ent files will be downloaded, if you want a different number change N_ENTRIES in the bash script <br>
