@@ -36,6 +36,7 @@ Required packages/modules:
 - PDBList -> from Bio.PDB
 
 **Instructions**
+<br>
 1.) Download repository and unpack folder <br>
 2.) Open Terminal and change directory to ../01_download <br>
 3.) run bash script: bash 01run.sh <br>
